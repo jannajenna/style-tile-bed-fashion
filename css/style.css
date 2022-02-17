@@ -1,7 +1,6 @@
 /* change these */
 
 @import url("https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&display=swap");
-/* @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); */
 @import url("https://fonts.googleapis.com/css2?family=Domine:wght@700&display=swap");
 
 * {
@@ -60,10 +59,6 @@ a {
   font-weight: 700;
 }
 
-/* button:active {
-  background-color: var(--bg-color);
-} */
-
 a:hover {
   color: var(--color-accent);
 }
@@ -98,7 +93,6 @@ footer {
 
 .header-wrapper h1 {
   font-size: 3rem;
-  /* text-transform: uppercase; */
   letter-spacing: -2px;
   padding-right: 0.75em;
   font-weight: bold;
@@ -179,28 +173,6 @@ ul li:last-child {
   background-color: var(--color-accent);
 }
 
-/* .textures li {
-  height: 30vw;
-  width: 40%;
-  margin-right: 5vw;
-}
-
-.texture-swatch-1 {
-  background: url(../img/pw_maze_white.png) top left repeat;
-}
-
-.texture-swatch-2 {
-  background: url(../img/subtle_grunge.png) top left repeat;
-}
-
-.texture-swatch-1 {
-  background: url(../img/pw_maze_white.png) top left repeat;
-}
-
-.texture-swatch-3 {
-  background: url(../img/white_paperboard.png) top left repeat;
-} */
-
 .images ul {
   flex-direction: column;
   text-align: center;
@@ -270,7 +242,6 @@ button:focus-within {
 }
 
 .h2-sample {
-  /*  font-style: italic; */
   font-size: 1.25rem;
   font-family: var(--font-sans);
 }
