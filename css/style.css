@@ -279,6 +279,8 @@ p[class*="font-details-"] {
 .adjectives ul {
   font-size: 2rem;
   opacity: 0.5;
+  font-family: var(--font-sans);
+  font-weight: 400;
 }
 
 .adjectives ul {
@@ -300,10 +302,6 @@ footer {
     margin-right: 3%;
     height: 10vw;
     /* width: 20%; 22s - already in mobile */
-  }
-
-  .textures li {
-    height: 15vw;
   }
 }
 
